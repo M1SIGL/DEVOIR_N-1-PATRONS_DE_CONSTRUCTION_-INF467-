@@ -38,6 +38,10 @@ Outils essentiel pour le suite du projet
 
 # 3. Vérification en 'vert' de la liste des fichiers sélectionnés
     git status
+    
+## configuration de github en local
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
 
 # 4. Je valide la premiere version avec un message
     git commit -m "Ajout du projet Java organise"
@@ -47,7 +51,7 @@ Outils essentiel pour le suite du projet
 
 # 6. Je connecte le dossier local au dépôt de mon organisation GitHub
 # Depot de mon organisation
-    git remote add origin https://github.com/M1SIGL/DEVOIR_N-1-PATRONS_DE_CONSTRUCTION_-INF467-.githttps://github.com
+    git remote add origin https://github.com/M1SIGL/DEVOIR_N-1-PATRONS_DE_CONSTRUCTION_-INF467-.git
 
 # 7. Envoie du projet sur GitHub
     git push -u origin main
