@@ -1,0 +1,145 @@
+﻿Structure du dossier pour le volume New Volume
+Le numÚro de sÚrie du volume est 4445-4ACE
+D:.
+|   .gitignore
+|   oragisation_du_projet.txt
+|   README.md
+|   
++---.vscode
+|       settings.json
+|       
++---bin
+|   |   App.class
+|   |   
+|   +---implementation_factory
+|   |   +---factory_exemple_du_cours
+|   |   |       Client.class
+|   |   |       Produit.class
+|   |   |       ProduitA.class
+|   |   |       ProduitB.class
+|   |   |       ProduitC.class
+|   |   |       ProduitFactory.class
+|   |   |       ProduitFactoryA.class
+|   |   |       ProduitFactoryB.class
+|   |   |       ProduitFactoryC.class
+|   |   |       
+|   |   +---factory_exemple_du_cours_modifie
+|   |   |       Client.class
+|   |   |       Produit.class
+|   |   |       ProduitA.class
+|   |   |       ProduitB.class
+|   |   |       ProduitC.class
+|   |   |       ProduitD.class
+|   |   |       ProduitFactory.class
+|   |   |       ProduitFactoryA.class
+|   |   |       ProduitFactoryB.class
+|   |   |       ProduitFactoryC.class
+|   |   |       ProduitFactoryD.class
+|   |   |       
+|   |   \---modele_generique
+|   |           Client.class
+|   |           FabriqueAbstraite.class
+|   |           FabriqueConcrete.class
+|   |           Produit.class
+|   |           ProduitConcrete.class
+|   |           
+|   \---implementation_factory_methode
+|       +---exemple_du_cours
+|       |       Client.class
+|       |       exemple_du_cours.dia
+|       |       exemple_du_cours.jpeg
+|       |       FabriqueProduit.class
+|       |       modele_generique.dia
+|       |       modele_generique.dia~
+|       |       modele_generique.jpeg
+|       |       Produit.class
+|       |       ProduitA.class
+|       |       ProduitB.class
+|       |       ProduitC.class
+|       |       
+|       +---exemple_du_cours_code_modifie
+|       |       Client.class
+|       |       exemple_du_cours_modifie.dia
+|       |       exemple_du_cours_modifie.dia~
+|       |       exemple_du_cours_modifie.jpeg
+|       |       FabriqueProduit.class
+|       |       Produit.class
+|       |       ProduitA.class
+|       |       ProduitB.class
+|       |       ProduitC.class
+|       |       ProduitD.class
+|       |       
+|       \---modele_generique
+|               Client.class
+|               Fabrique.class
+|               Produit.class
+|               ProduitConcret.class
+|               
++---lib
+\---src
+    |   App.java
+    |   
+    +---implementation_factory
+    |   +---factory_exemple_du_cours
+    |   |       Client.java
+    |   |       Produit.java
+    |   |       ProduitA.java
+    |   |       ProduitB.java
+    |   |       ProduitC.java
+    |   |       ProduitFactory.java
+    |   |       ProduitFactoryA.java
+    |   |       ProduitFactoryB.java
+    |   |       ProduitFactoryC.java
+    |   |       
+    |   +---factory_exemple_du_cours_modifie
+    |   |       Client.java
+    |   |       Produit.java
+    |   |       ProduitA.java
+    |   |       ProduitB.java
+    |   |       ProduitC.java
+    |   |       ProduitD.java
+    |   |       ProduitFactory.java
+    |   |       ProduitFactoryA.java
+    |   |       ProduitFactoryB.java
+    |   |       ProduitFactoryC.java
+    |   |       ProduitFactoryD.java
+    |   |       
+    |   \---modele_generique
+    |           Client.java
+    |           FabriqueAbstraite.java
+    |           FabriqueConcrete.java
+    |           Produit.java
+    |           ProduitConcrete.java
+    |           
+    \---implementation_factory_methode
+        +---exemple_du_cours
+        |       Client.java
+        |       exemple_du_cours.dia
+        |       exemple_du_cours.jpeg
+        |       FabriqueProduit.java
+        |       modele_generique.dia
+        |       modele_generique.dia~
+        |       modele_generique.jpeg
+        |       Produit.java
+        |       ProduitA.java
+        |       ProduitB.java
+        |       ProduitC.java
+        |       
+        +---exemple_du_cours_code_modifie
+        |       Client.java
+        |       exemple_du_cours_modifie.dia
+        |       exemple_du_cours_modifie.dia~
+        |       exemple_du_cours_modifie.jpeg
+        |       FabriqueProduit.java
+        |       Produit.java
+        |       ProduitA.java
+        |       ProduitB.java
+        |       ProduitC.java
+        |       ProduitD.java
+        |       
+        \---modele_generique
+                Client.java
+                Fabrique.java
+                Produit.java
+                ProduitConcret.java
+                
